@@ -1,6 +1,7 @@
 ### Hi there 👋
 :email: gianinapaula.rg@gmail.com
-- http://steamcommunity.com/id/mel-mcknz/
+
+http://steamcommunity.com/id/mel-mcknz/
 <!--
 **mellowtf/mellowtf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
